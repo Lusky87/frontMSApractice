@@ -1,0 +1,10 @@
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/domain/Dashboard.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/domain/VideoProcessed.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/domain/Indexed.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/domain/FileUploaded.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/config/kafka/KafkaProcessor.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/DashboardApplication.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/infra/AbstractEvent.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/infra/PolicyHandler.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/infra/DashboardRepository.java
+/Users/joyongmin/IdeaProjects/google-drive/dashboard/src/main/java/google/drive/infra/DashboardViewHandler.java

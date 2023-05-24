@@ -1,0 +1,10 @@
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/domain/FileRepository.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/infra/FileHateoasProcessor.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/domain/File.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/config/kafka/KafkaProcessor.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/infra/PolicyHandler.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/infra/AbstractEvent.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/infra/FileController.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/DriveApplication.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/domain/FileUploaded.java
+/Users/joyongmin/IdeaProjects/google-drive/drive/src/main/java/google/drive/domain/FileDeleted.java

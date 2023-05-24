@@ -1,0 +1,11 @@
+google/drive/infra/AbstractEvent$1.class
+google/drive/infra/AbstractEvent.class
+google/drive/infra/DashboardRepository.class
+google/drive/config/kafka/KafkaProcessor.class
+google/drive/domain/Indexed.class
+google/drive/domain/VideoProcessed.class
+google/drive/domain/Dashboard.class
+google/drive/domain/FileUploaded.class
+google/drive/infra/PolicyHandler.class
+google/drive/DashboardApplication.class
+google/drive/infra/DashboardViewHandler.class

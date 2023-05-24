@@ -1,0 +1,5 @@
+/Users/joyongmin/IdeaProjects/google-drive/notification/src/main/java/google/drive/config/kafka/KafkaProcessor.java
+/Users/joyongmin/IdeaProjects/google-drive/notification/src/main/java/google/drive/domain/VideoProcessed.java
+/Users/joyongmin/IdeaProjects/google-drive/notification/src/main/java/google/drive/infra/AbstractEvent.java
+/Users/joyongmin/IdeaProjects/google-drive/notification/src/main/java/google/drive/infra/PolicyHandler.java
+/Users/joyongmin/IdeaProjects/google-drive/notification/src/main/java/google/drive/NotificationApplication.java

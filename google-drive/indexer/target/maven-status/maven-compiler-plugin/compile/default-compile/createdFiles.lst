@@ -1,0 +1,12 @@
+google/drive/domain/Index.class
+google/drive/infra/AbstractEvent.class
+google/drive/infra/IndexHateoasProcessor.class
+google/drive/infra/IndexController.class
+google/drive/domain/FileDeleted.class
+google/drive/infra/AbstractEvent$1.class
+google/drive/IndexerApplication.class
+google/drive/config/kafka/KafkaProcessor.class
+google/drive/domain/IndexRepository.class
+google/drive/domain/Indexed.class
+google/drive/domain/FileUploaded.class
+google/drive/infra/PolicyHandler.class
