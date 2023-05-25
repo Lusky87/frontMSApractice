@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8719e439-25b9-402b-abbd-11eed5fcf1ff" name="Changes" comment="" />
+    <list default="true" id="8719e439-25b9-402b-abbd-11eed5fcf1ff" name="Changes" comment="작업 진행중">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-drive/frontend_vue/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/dist/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/dist/img/logo.82b9c7a5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/dist/order-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/dist/order-form.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/dist/order-form.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/dist/order-form.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/src/components/InnerComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/src/components/OrderForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/src/components/VueWebComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-fe-vue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-drive/frontend_vue/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/google-drive/frontend_vue/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaworks4/src/main/resources/static/mashup/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/metaworks4/src/main/resources/static/mashup/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaworks4/src/main/resources/static/static/mashup/public/plugins/ckeditor-4.5.6/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metaworks4/src/main/resources/static/testVue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/metaworks4/src/main/resources/static/testVue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-fe-vue/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
@@ -39,6 +73,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Q0FiX37pqX8JqEJprrCyX3rHn8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +83,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/joyongmin/Documents/GitHub/frontMSApractice/metaworks4/src/main/resources/static",
+    "last_opened_file_path": "/Users/joyongmin/IdeaProjects/frontMSApractice/google-drive/frontend_vue",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
@@ -57,11 +92,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/google-drive/frontend_vue" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/metaworks4/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/google-drive/frontend" />
       <recent name="$PROJECT_DIR$/google-drive" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/metaworks4/src/main/resources/static/static/mashup" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/google-drive" />
@@ -78,6 +113,8 @@
       <workItem from="1684482722640" duration="1762000" />
       <workItem from="1684737242886" duration="55465000" />
       <workItem from="1684800540085" duration="23409000" />
+      <workItem from="1684904629498" duration="1428000" />
+      <workItem from="1684911508674" duration="4363000" />
     </task>
     <servers />
   </component>
@@ -96,10 +133,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="작업 진행중" />
+    <option name="LAST_COMMIT_MESSAGE" value="작업 진행중" />
   </component>
 </project>

@@ -1,8 +1,8 @@
 <template>
   <div id="app">
 <!--    <vue-test></vue-test>-->
-    <vue-file-card></vue-file-card>
-<!--    <entry-component v-model="src" @change="checkHTML"/>-->
+<!--    <vue-file-card></vue-file-card>-->
+    <entry-component v-model="src" @change="checkHTML"/>
   </div>
 </template>
 
